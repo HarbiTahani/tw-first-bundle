@@ -1,0 +1,14 @@
+{
+    "name": {
+        "en": "First bundle",
+        "ar": "first bundle"
+    },
+    "description": {
+        "en": "",
+        "ar": ""
+    },
+    "author_email": "tahani.h@salla.sa",
+    "support_url": "",
+    "repository": "https://github.com/HarbiTahani/tw-first-bundle",
+    "components": []
+}
